@@ -68,3 +68,14 @@ invoice-september.pdf
 
 holiday-cape-town-2026.jpg
 -> Photos
+
+
+## Demo
+
+### Before
+
+![Before](screenshots/before.png)
+
+### After
+
+![After](screenshots/after.jpg)
