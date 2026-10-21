@@ -51,3 +51,20 @@ Notes/
 ## Hacktoberfest 2026
 
 Built for the Hacktoberfest Open-Source AI Challenge.
+
+
+
+## Future AI Extension
+
+The next version will use an open-weight model such as Gemma or TinyLlama to classify files based on filenames and content instead of only file extensions.
+
+Example:
+
+biology-assignment-final.pdf
+-> School
+
+invoice-september.pdf
+-> Finance
+
+holiday-cape-town-2026.jpg
+-> Photos
